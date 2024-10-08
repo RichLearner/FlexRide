@@ -32,10 +32,21 @@
         {
           "origin": "https://uber.dev/"
         }
-      ]
+      ],
+      "expo-font",
+      "expo-secure-store"
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": "https://uber.dev/"
+      },
+      "eas": {
+        "projectId": "ebe716e4-87b9-4004-9828-fc28c54a08f4"
+      }
+    },
+    "owner": "courselearner"
   }
 }
